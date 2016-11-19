@@ -6,6 +6,9 @@
 h1 {
   font-size: 72px;
 }
+img {
+  width: 320px;
+}
 p {
   font-size: 30px;
   color: rgb(122, 20, 20);
