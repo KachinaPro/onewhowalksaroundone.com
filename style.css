@@ -1,0 +1,12 @@
+#content {
+  padding: 20px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center
+}
+h1 {
+  font-size: 72px;
+}
+p {
+  font-size: 30px;
+  color: rgb(122, 20, 20);
+}
